@@ -11,5 +11,5 @@
 
 <p align="center"> 
   Compteur de visites :<br>
-  <img src="https://profile-counter.glitch.me/bobmarley0/count.svg" />
+  <img src="https://profile-counter.glitch.me/RayanZiani/count.svg" />
 </p>
