@@ -12,20 +12,19 @@
 
 ✔️・Full Stack Developer
 
-📩・Cheating Private - Source code - Spoofer / Dm discord [Sarnax#7522](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
+📩・rayan_ziani.web@yahoo.com
 
-🌐・Website: [Sarnax.xyz](https://sarnaxlii.github.io/sarnax.github.io/)
+🌐・Website: [xxx](xxx)
 
-📮・The language I'm good at C++  C#  LUA  Python  HTML JAVA 
+📮・The language I'm good at C++  C#  HTML  CSS  SCSS JavaScript
 
-🎮・Add friend in steam : [Sarnax](https://steamcommunity.com/id/sarnaxOfficial/)
 
 
 
 
 ---  
 
-<h2 align="center">Compteur de visites :</h2>
+<h2 align="center">Visitor Counter :</h2>
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/RayanZiani/count.svg" />
