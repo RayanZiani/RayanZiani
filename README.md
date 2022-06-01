@@ -7,9 +7,26 @@
      </a>
 </p>
 
+
+<h2 align="center">Contact me</h2>
+
+✔️・Full Stack Developer
+
+📩・Cheating Private - Source code - Spoofer / Dm discord [Sarnax#7522](https://discord.com/users/943374631644045363) or mail SarnaxOfficial@protonmail.com
+
+🌐・Website: [Sarnax.xyz](https://sarnaxlii.github.io/sarnax.github.io/)
+
+📮・The language I'm good at C++  C#  LUA  Python  HTML JAVA 
+
+🎮・Add friend in steam : [Sarnax](https://steamcommunity.com/id/sarnaxOfficial/)
+
+
+
+
 ---  
 
+<h2 align="center">Compteur de visites :</h2>
+
 <p align="center"> 
-  Compteur de visites :<br>
   <img src="https://profile-counter.glitch.me/RayanZiani/count.svg" />
 </p>
