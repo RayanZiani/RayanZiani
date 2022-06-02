@@ -9,9 +9,9 @@
 
 
 --- 
-<div align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=RayanZiani&row=2&column=8&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
 
 --- 
 
