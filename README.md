@@ -29,7 +29,7 @@
 
 <h2 align="center">Contact me</h2>
 
-✔️・Full Stack Developer
+✔️・Full Stack Web Developer
 
 📩・rayan_ziani.web@yahoo.com
 
