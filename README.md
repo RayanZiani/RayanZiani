@@ -22,20 +22,19 @@
         <img title="RayanZiani stats" alt="Rayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RayanZiani&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-<a href="https://github.com/RayanZiani"><img alt="Rayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RayanZiani&bg_color=RRRRRR&color=eca15b&line=eca15b&point=FFFFFF&hide_border=true" /></a>
 
 
 --- 
 
 <h2 align="center">Contact me</h2>
 
-✔️・Full Stack Web Developer
+✔️・2nd Year BTS SNIR (Systèmes Numériques option Informatique et Réseaux)
 
 📩・rayan_ziani.web@yahoo.com
 
 🌐・Website: [Portfolio](https://rayanziani.com/)
 
-📮・The language I'm good at C++  C#  HTML  CSS  SCSS JavaScript
+📮・C++ | C# | HTML/CSS | JavaScript | Python | Verilog
 
 
 
