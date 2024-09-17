@@ -28,13 +28,13 @@
 
 <h2 align="center">Contact me</h2>
 
-✔️・2nd Year BTS SNIR (Systèmes Numériques option Informatique et Réseaux)
+✔️・3rd year Bachelor's student in web and mobile app development, apprentice at XEFI.
 
 📩・rayan_ziani.web@yahoo.com
 
 🌐・Website: [Portfolio](https://rayanziani.com/)
 
-📮・C++ | C# | HTML/CSS | JavaScript | Python | Verilog
+📮・C++ | C# | HTML/CSS | JavaScript | Python | Rust
 
 
 
