@@ -34,7 +34,7 @@
 
 🌐・Website: [Portfolio](https://rayanziani.com/)
 
-📮・C++ | C# | HTML/CSS | JavaScript | Python | Rust
+📮・C++ | C# | HTML/CSS | JavaScript | Python | Rust | SASS | React 
 
 
 
