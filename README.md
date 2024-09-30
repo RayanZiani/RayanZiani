@@ -34,16 +34,13 @@
 
 🌐・Website: [Portfolio](https://rayanziani.com/)
 
-📮・C++ | C# | HTML/CSS | JavaScript | Python | Rust | SASS | React 
+📮・C++ | C# | HTML/CSS | SASS | JavaScript | Python | Rust | React | Verilog | Flutter
 
 
 
 
 
 ---  
-
-<h2 align="center">Visitor Counter :</h2>
-
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/RayanZiani/count.svg" />
 </p>
