@@ -7,6 +7,18 @@
      </a>
 </p>
 
+--- 
+
+<h2 align="center">Contact me</h2>
+
+✔️・ I am currently an apprentice Software Developer at XEFI, working with Flutter, React, and Python. I utilize WSL2 alongside IntelliJ for development.
+
+📩・rayan_ziani.web@yahoo.com
+
+🌐・Website: [Portfolio](https://rayanziani.com/)
+
+📮・C++ | C# | HTML/CSS | SASS | JavaScript | Python | Rust | React | Verilog | Flutter
+
 
 --- 
 
@@ -24,12 +36,7 @@
 <a href="https://github.com/RayanZiani/RayanZiani">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RayanZiani&theme=gruvbox" alt="Rayan's GitHub Streak Stats"/>
 </a>
-<br><br>
-<a href="https://github.com/RayanZiani/RayanZiani">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=RayanZiani&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=false" alt="Rayan's GitHub Contributions Graph"/>
-</a>
 </div>
---- 
 
 <h2 align="center">My github profile stastictics.</h2>
 
@@ -38,19 +45,6 @@
         <img title="RayanZiani stats" alt="Rayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RayanZiani&theme=dark&hide_border=true&stroke=f53b3b"/>
     </a>
 </p><br>
-
-
---- 
-
-<h2 align="center">Contact me</h2>
-
-✔️・3rd year Bachelor's student in web and mobile app development, apprentice at XEFI.
-
-📩・rayan_ziani.web@yahoo.com
-
-🌐・Website: [Portfolio](https://rayanziani.com/)
-
-📮・C++ | C# | HTML/CSS | SASS | JavaScript | Python | Rust | React | Verilog | Flutter
 
 
 
