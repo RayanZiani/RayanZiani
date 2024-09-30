@@ -38,18 +38,6 @@
 </a>
 </div>
 
-<h2 align="center">My github profile stastictics.</h2>
-
-<p align="center">
-    <a href="https://github.com/RayanZiani">
-        <img title="RayanZiani stats" alt="Rayan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RayanZiani&theme=dark&hide_border=true&stroke=f53b3b"/>
-    </a>
-</p><br>
-
-
-
-
-
 ---  
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/RayanZiani/count.svg" />
