@@ -11,7 +11,7 @@
 
 <h2 align="center">Contact me</h2>
 
-✔️・ I am currently an apprentice Software Developer at XEFI, working with Flutter, React, and Python. I utilize WSL2 alongside IntelliJ for development.
+✔️・ Starting my Master's in Full-Stack AI Development. two years of advanced studies ahead!
 
 📩・rayan_ziani.web@yahoo.com
 
