@@ -17,7 +17,7 @@
 
 🌐・Website: [Portfolio](https://rayanziani.com/)
 
-📮・C++ | C# | HTML/CSS (SCSS) | JavaScript (React, Vue.js, Typescript, Next.js) | Python (FastAPI, Flask) | Rust | Verilog | Flutter
+📮・C++ | C# | HTML/CSS (SCSS) | JavaScript (React, Vue.js, Typescript, Next.js, Vite) | Python (FastAPI, Flask) | Rust | Verilog | Flutter
 
 
 --- 
