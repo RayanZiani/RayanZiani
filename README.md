@@ -3,7 +3,7 @@
 # Rayan Ziani
 **AI Full Stack Developer · Motion Designer · Builder**
 
-*From Rust system internals to React interfaces — with everything in between.*
+*From Rust system internals to web interfaces with everything in between.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rayanziani.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://rayanziani.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rayan_Ziani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayan-ziani)
