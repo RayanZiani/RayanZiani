@@ -18,16 +18,32 @@
 <div align="center">
 
 #### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,vue,vite,scss&theme=dark)](https://rayanziani.com)
+[![](https://skillicons.dev/icons?i=react,nextjs,ts,vue,vite,scss&theme=dark)](https://rayanziani.com)
 
 #### Backend
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask,cs,cpp,rust&theme=dark)](https://rayanziani.com)
+[![](https://skillicons.dev/icons?i=python,fastapi,flask,cs,cpp,rust,go&theme=dark)](https://rayanziani.com)
 
 #### AI / Data
-[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch&theme=dark)](https://rayanziani.com)
+[![](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv,anaconda,grafana,kafka&theme=dark)](https://rayanziani.com)
 
 #### Infra & Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,postgres,redis,terraform,supabase,flutter&theme=dark)](https://rayanziani.com)
+[![](https://skillicons.dev/icons?i=docker,postgres,redis,terraform,supabase,linux,bash,git,github,githubactions&theme=dark)](https://rayanziani.com)
+
+#### IDEs
+[![](https://skillicons.dev/icons?i=vscode,rider,clion,pycharm,androidstudio&theme=dark)](https://rayanziani.com)
+
+#### Security & Reverse Engineering
+[![](https://skillicons.dev/icons?i=kali&theme=dark)](https://rayanziani.com)
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-4B4B4B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA0UlEQVR42mNkIBAAAAAASAAR&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+#### Hardware & FPGA
+[![](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://rayanziani.com)
+![Vivado](https://img.shields.io/badge/-Vivado%20Xilinx-E01F27?style=for-the-badge&logo=xilinx&logoColor=white)
+
+#### Creative Suite
+[![](https://skillicons.dev/icons?i=ae,pr,ps,ai,figma,blender&theme=dark)](https://rayanziani.com)
 
 </div>
 
