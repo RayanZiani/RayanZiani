@@ -34,7 +34,7 @@
 
 #### Security & Reverse Engineering
 [![](https://skillicons.dev/icons?i=kali&theme=dark)](https://rayanziani.com)
-![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-4B4B4B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA0UlEQVR42mNkIBAAAAAASAAR&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/-IDA%20Pro-4B4B4B?style=for-the-badge&logo=x64dbg&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
