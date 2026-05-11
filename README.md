@@ -18,16 +18,16 @@
 <div align="center">
 
 #### Frontend
-[![](https://skillicons.dev/icons?i=react,nextjs,ts,vue,vite,scss&theme=dark)](https://rayanziani.com)
+[![](https://skillicons.dev/icons?i=js,react,nextjs,ts,threejs,vercel,vue,vite,scss,css,dart,electron,tailwind,flutter&theme=dark)](https://rayanziani.com)
 
 #### Backend
-[![](https://skillicons.dev/icons?i=python,fastapi,flask,cs,cpp,rust,go&theme=dark)](https://rayanziani.com)
+[![](https://skillicons.dev/icons?i=python,fastapi,flask,cs,dotnet,cpp,rust,go,express,firebase&theme=dark)](https://rayanziani.com)
 
 #### AI / Data
-[![](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv,anaconda,grafana,kafka&theme=dark)](https://rayanziani.com)
+[![](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv,anaconda,grafana,selenium,kafka&theme=dark)](https://rayanziani.com)
 
 #### Infra & Tools
-[![](https://skillicons.dev/icons?i=docker,postgres,redis,terraform,supabase,linux,bash,git,github,githubactions&theme=dark)](https://rayanziani.com)
+[![](https://skillicons.dev/icons?i=docker,kubernetes,terrafor,mongodb,postgres,mysql,redis,terraform,supabase,linux,bash,gitlab,git,github,githubactions,nginx&theme=dark)](https://rayanziani.com)
 
 #### IDEs
 [![](https://skillicons.dev/icons?i=vscode,rider,clion,pycharm,androidstudio&theme=dark)](https://rayanziani.com)
