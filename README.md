@@ -27,7 +27,7 @@
 [![](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv,anaconda,grafana,selenium,kafka&theme=dark)](https://rayanziani.com)
 
 #### Infra & Tools
-[![](https://skillicons.dev/icons?i=docker,kubernetes,terrafor,mongodb,postgres,mysql,redis,terraform,supabase,linux,bash,gitlab,git,github,githubactions,nginx&theme=dark)](https://rayanziani.com)
+[![](https://skillicons.dev/icons?i=docker,kubernetes,terraform,mongodb,postgres,mysql,redis,terraform,supabase,linux,bash,gitlab,git,github,githubactions,nginx&theme=dark)](https://rayanziani.com)
 
 #### IDEs
 [![](https://skillicons.dev/icons?i=vscode,rider,clion,pycharm,androidstudio&theme=dark)](https://rayanziani.com)
