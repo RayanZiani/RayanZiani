@@ -49,11 +49,15 @@
 
 ---
 
-## 🛠 What I'm building
+## 🛠 What I'm currently building
 
 ```
-Ludex  →  Large-scale video game collection platform
-          Microservices · FastAPI · Go · Next.js · Advanced data scraping
+Ludario  →  Large-scale video game collection platform
+            Microservices · FastAPI · Go · Next.js · Redis · Advanced data scraping
+PeerStars  →  Peer-to-peer review exchange marketplace with token economy
+              Tokenomics · Spread-based pricing · React · Node.js
+PhasmaVPN  →  VPN infrastructure with obfuscation, kill switch with a no-account and no-history-logs policy
+              Go · WireGuard · Tauri · Expo · Astro
 ```
 
 ---
