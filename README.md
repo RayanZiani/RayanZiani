@@ -1,7 +1,7 @@
 <div align="center">
 
 # Rayan Ziani
-**AI Full Stack Developer · Motion Designer · Builder**
+**Sometimes a Developer**
 
 *From Rust system internals to web interfaces with everything in between.*
 
